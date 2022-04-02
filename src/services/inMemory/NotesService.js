@@ -7,7 +7,7 @@
 /* eslint-disable eol-last */
 /* eslint-disable no-underscore-dangle */
 /* eslint-disable no-unused-vars */
-const { nanoid } = require('nanoid')
+const { nanoid } = require('nanoid');
 const InvariantError = require('../../exceptions/InvariantError');
 const NotFoundError = require('../../exceptions/NotFoundError');
 

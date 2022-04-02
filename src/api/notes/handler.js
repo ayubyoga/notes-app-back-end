@@ -4,6 +4,7 @@
 /* eslint-disable eol-last */
 /* eslint-disable no-underscore-dangle */
 /* eslint-disable no-unused-vars */
+const ClientError = require('../../exceptions/ClientError');
 
 class NotesHandler {
   constructor(service, validator) {
