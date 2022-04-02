@@ -1,3 +1,5 @@
 node_modules
 
 notes-api-webserver-3.pem
+.env
+.prod.env
